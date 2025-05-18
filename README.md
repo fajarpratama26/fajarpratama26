@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi guys! I'm Fajar Pratama 👋
 
 <!--
 **fajarpratama26/fajarpratama26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [**Dicoding Indonesia**](https://www.dicoding.com/) 😃
+- 🌱 I’m currently learning **Node.js**
+
+  ![apaantuh](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFid3ZzdDZ5endsY3R5ZmZ5eXBhMGJlMjV2OHNjamVlM3Rjc2pkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/89KCyMLWBq0i0WHurN/giphy.gif)
